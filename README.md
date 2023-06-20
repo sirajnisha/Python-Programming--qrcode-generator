@@ -1,1 +1,1 @@
-# Python-Programming--qrcode-generator
+# qrcode-generator--using python
